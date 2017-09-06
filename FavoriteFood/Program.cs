@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FavoriteFood
 {
-    class Program
+    class Favorite
     {
         static void Main(string[] args)
         {
