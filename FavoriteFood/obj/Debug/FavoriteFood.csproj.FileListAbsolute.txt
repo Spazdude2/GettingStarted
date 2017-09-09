@@ -10,3 +10,10 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\FavoriteFood\bin\Debug\FavoriteF
 C:\Users\eahscs\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.csprojResolveAssemblyReference.cache
 C:\Users\eahscs\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.pdb
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.exe.config
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\bin\Debug\FavoriteFood.pdb
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\GettingStarted\FavoriteFood\obj\Debug\FavoriteFood.pdb
